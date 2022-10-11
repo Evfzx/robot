@@ -27,6 +27,7 @@ body{
 }
 .header{
     position: fixed;
+    top: 0;
     color: white;
     z-index: 1;
     background: linear-gradient(to bottom, #2B2B2B 60%,#fe818100);
@@ -63,6 +64,7 @@ body{
     width: 15px;
 }
 .sidebar{
+    top: 0;
     position:fixed;
     width: 50px;
     display: flex;
