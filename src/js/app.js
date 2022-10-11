@@ -18,5 +18,5 @@ function active(){
 }
 
 function inactive(){
-    gsap.to('.sidebar',{backgroundColor:"transparent"})
+    gsap.to('.sidebar',{backgroundColor:""})
 }
